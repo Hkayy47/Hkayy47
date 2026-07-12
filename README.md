@@ -34,7 +34,7 @@ A serverless reverse proxy that drops redundant RAG context using Shannon entrop
 
 Turns agent session traces into a Neo4j memory graph: measures dead-weight injections, retires near-duplicates, proves a prune plan in a sandbox, and traces any answer back to the memories that shaped it. → [live](https://agent-memory-ledger.butterbase.dev) · HackWithBay 3.0
 
-**[alembicio](https://github.com/Hkayy47/alembicio)** — alembic, for vectors
+**[alembicio](https://github.com/Hkayy47/alembicio)** — alembic, for vectors (i.p)
 
 Zero-downtime migration orchestrator for vector databases. Resumable backfills, dual-writes, and automated recall verification — so swapping embedding models doesn't mean swapping in a worse index and hoping.
 
