@@ -15,7 +15,8 @@ $ whoami
 hetansh — i work on the layer between a model and the truth:
           retrieval, context compression, grounding, evals.
           when the thing needs to exist, i ship the whole stack.
-
+          researching context optimization, NLP, and HCI with LLMs.
+          learning C++, RL, Go and more.
 $ cat now.md
 
   → context compression for RAG — cutting tokens without cutting answers
