@@ -4,7 +4,7 @@
 │   hetansh kevadia                                       │
 │   cs + math · university of maryland                    │
 │                                                         │
-│   retrieval · context · grounding · things that ship    │
+│   i build the plumbing between your app and the model   │
 │                                                         │
 ╰─────────────────────────────────────────────────────────╯
 ```
@@ -12,44 +12,57 @@
 ```console
 $ whoami
 
-hetansh — i work on the layer between a model and the truth:
-          retrieval, context compression, grounding, evals.
-          when the thing needs to exist, i ship the whole stack.
-          researching context optimization, NLP, and HCI with LLMs.
-          learning C++, RL, Go and more.
-$ cat now.md
+hetansh — context windows, retrieval, and the infrastructure around them.
+          what gets injected, what it actually costs, what it's worth,
+          and whether the stream survives a dropped connection.
 
-  → context compression for RAG — cutting tokens without cutting answers
-  → deep learning from first principles, paper by paper
-  → open to swe / ml roles — hkevadia@umd.edu
+$ ls -1 ~/work
+
+  shannonproxy/          what goes into the context
+  agent-memory-ledger/   what the context is worth
+  alembicio/             what happens when you change the embedding model
+  zephyr/                what happens when the connection dies
 ```
+
+## `~/projects`
+
+**[shannonproxy](https://github.com/Hkayy47/ShannonProxy)** — information-theoretic context pruning for LLM APIs
+
+A serverless reverse proxy that drops redundant RAG context using Shannon entropy *before* it reaches the model. Python scoring engine and a Next.js front end, shipped as one Vercel app.
+
+**[agent-memory-ledger](https://github.com/Hkayy47/Agent-Memory-Ledger)** — find the memories your agent pays for but never uses
+
+Turns agent session traces into a Neo4j memory graph: measures dead-weight injections, retires near-duplicates, proves a prune plan in a sandbox, and traces any answer back to the memories that shaped it. → [live](https://agent-memory-ledger.butterbase.dev) · HackWithBay 3.0
+
+**[alembicio](https://github.com/Hkayy47/alembicio)** — alembic, for vectors
+
+Zero-downtime migration orchestrator for vector databases. Resumable backfills, dual-writes, and automated recall verification — so swapping embedding models doesn't mean swapping in a worse index and hoping.
+
+**[zephyr](https://github.com/Hkayy47/Zephyr)** — resumable streams for LLM apps
+
+Self-hosted broker built on the Durable Streams protocol. Kill wifi mid-generation, refresh the page, and the stream picks up where it left off. Three lines to integrate.
+
+**also —** [textbuddy](https://github.com/Hkayy47/TextBuddy) (text about your day, get memories back) · [yousure](https://github.com/Hkayy47/YouSure) (bitcamp '24) · [wait-list-watcher-320](https://github.com/Hkayy47/wait-list-watcher-320) (needed a seat in a full course; wrote a bot; got the seat)
+
 ## `~/stack`
 
 ```console
 $ stack --list
 
 languages   python · typescript · java · c/c++ · sql
-ml + data   numpy · pandas · langgraph
+llm infra   rag · context compression · evals · langgraph · neo4j
 backend     fastapi · flask · postgres · redis
 frontend    react · next.js
-infra       docker · aws · vercel · github actions · linux
+infra       vercel · docker · aws · github actions · linux
 ```
-
-## `~/stats`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Hkayy47&show_icons=true&hide_border=true&hide_title=true&theme=dark&bg_color=0d1117&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Hkayy47&show_icons=true&hide_border=true&hide_title=true&bg_color=ffffff&text_color=57606a&icon_color=0969da&ring_color=0969da">
-  <img alt="GitHub stats for Hkayy47" src="https://github-readme-stats.vercel.app/api?username=Hkayy47&show_icons=true&hide_border=true&hide_title=true">
-</picture>
 
 ---
 
 <p>
-  <a href="https://hkayy47.github.io/Hetansh-Kevadia-Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=githubpages&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/hkayy47/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://huggingface.co/Hk47Lock"><img alt="Hugging Face" src="https://img.shields.io/badge/hugging%20face-0d1117?style=flat-square&logo=huggingface&logoColor=white"></a>
-  <a href="mailto:hkevadia@terpmail.umd.edu"><img alt="Email" src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=maildotru&logoColor=white"></a>
+  <a href="https://hkayy47.github.io/Hetansh-Kevadia-Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-30363d?style=flat-square&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hkayy47/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-30363d?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://huggingface.co/Hk47Lock"><img alt="Hugging Face" src="https://img.shields.io/badge/hugging%20face-30363d?style=flat-square&logo=huggingface&logoColor=white"></a>
+  <a href="mailto:hkevadia@umd.edu"><img alt="Email" src="https://img.shields.io/badge/email-30363d?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ```console
