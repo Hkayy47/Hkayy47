@@ -22,13 +22,6 @@ $ cat now.md
   → deep learning from first principles, paper by paper
   → open to swe / ml roles — hkevadia@umd.edu
 ```
-
-## `~/projects`
-
-**[pulsify](https://github.com/Hkayy47/Pulsify)** — clinical record assistant
-
-Grounds every answer in retrieved patient records and surfaces the source rows behind it, rather than free-form generating over the chart. Built so a wrong answer is *visible* instead of merely plausible.
-
 ## `~/stack`
 
 ```console
