@@ -48,7 +48,7 @@ infra       docker · aws · vercel · github actions · linux
   <a href="https://hkayy47.github.io/Hetansh-Kevadia-Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=githubpages&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hkayy47/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0d1117?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://huggingface.co/Hk47Lock"><img alt="Hugging Face" src="https://img.shields.io/badge/hugging%20face-0d1117?style=flat-square&logo=huggingface&logoColor=white"></a>
-  <a href="mailto:hkevadia@umd.edu"><img alt="Email" src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=maildotru&logoColor=white"></a>
+  <a href="mailto:hkevadia@terpmail.umd.edu"><img alt="Email" src="https://img.shields.io/badge/email-0d1117?style=flat-square&logo=maildotru&logoColor=white"></a>
 </p>
 
 ```console
