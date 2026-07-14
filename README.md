@@ -23,6 +23,14 @@ $ ls -1 ~/work
   agent-memory-ledger/   what the context is worth
   alembicio/             what happens when you change the embedding model
   zephyr/                what happens when the connection dies
+
+$ learning
+
+  CUDA and C++
+  RL papers
+  Cybersecurity
+  Go
+
 ```
 
 ## `~/projects`
