@@ -14,10 +14,12 @@
 $ whoami
 
 hetansh — context windows, retrieval, and the infrastructure around them.
+          Deep interest in Model Architecture, how sequencial modelling works,
+          control models, applying them in real world states (world models).
           what gets injected, what it actually costs, what it's worth,
           and whether the stream survives a dropped connection.
 
-$ ls -1 ~/work
+$ ls -1 ~/work (old stuff lying around)
 
   shannonproxy/          what goes into the context
   agent-memory-ledger/   what the context is worth
@@ -25,11 +27,11 @@ $ ls -1 ~/work
   zephyr/                what happens when the connection dies
 
 $ learning
-
+  Different ways of sequence modelling architecture (MamKO MCP NNs) 
+  RL + CNNs + CV project (in the works)
+  
   CUDA and C++
-  RL papers
-  Cybersecurity
-  Go
+
 
 ```
 
