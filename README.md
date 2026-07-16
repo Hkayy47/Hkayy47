@@ -65,6 +65,7 @@ llm infra   rag · context compression · evals · langgraph · neo4j
 backend     fastapi · flask · postgres · redis
 frontend    react · next.js
 infra       vercel · docker · aws · github actions · linux
+topics      ML foundations, Transformers, Koopman operators, Mamba, CNNs, and more
 ```
 
 ---
