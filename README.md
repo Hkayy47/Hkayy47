@@ -27,7 +27,7 @@ $ ls -1 ~/work (old stuff lying around)
   zephyr/                what happens when the connection dies
 
 $ learning
-  Different ways of sequence modelling architecture (MamKO MCP NNs) 
+  Different ways of sequence modelling architecture with Structured state space memory (MamKO, MCPs) 
   RL + CNNs + CV project (in the works)
   
   CUDA and C++
