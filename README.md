@@ -5,8 +5,8 @@
 │   hetansh kevadia                                       │
 │   cs + math · university of maryland                    │
 │                                                         │
-│   i build the plumbing between your app and the model   │
-│                                                         │
+│   i understand the foundation of your app's model, &    │
+│   improve it                                            │
 ╰─────────────────────────────────────────────────────────╯
 ```
 
