@@ -36,24 +36,8 @@ $ learning
 ```
 
 ## `~/projects`
-
-**[shannonproxy](https://github.com/Hkayy47/ShannonProxy)** — information-theoretic context pruning for LLM APIs
-
-A serverless reverse proxy that drops redundant RAG context using Shannon entropy *before* it reaches the model. Python scoring engine and a Next.js front end, shipped as one Vercel app.
-
-**[agent-memory-ledger](https://github.com/Hkayy47/Agent-Memory-Ledger)** — find the memories your agent pays for but never uses
-
-Turns agent session traces into a Neo4j memory graph: measures dead-weight injections, retires near-duplicates, proves a prune plan in a sandbox, and traces any answer back to the memories that shaped it. → [live](https://agent-memory-ledger.butterbase.dev) · HackWithBay 3.0
-
-**[alembicio](https://github.com/Hkayy47/alembicio)** — alembic, for vectors (i.p)
-
-Zero-downtime migration orchestrator for vector databases. Resumable backfills, dual-writes, and automated recall verification — so swapping embedding models doesn't mean swapping in a worse index and hoping.
-
-**[zephyr](https://github.com/Hkayy47/Zephyr)** — resumable streams for LLM apps
-
-Self-hosted broker built on the Durable Streams protocol. Kill wifi mid-generation, refresh the page, and the stream picks up where it left off. Three lines to integrate.
-
-**also —** [textbuddy](https://github.com/Hkayy47/TextBuddy) (text about your day, get memories back) · [yousure](https://github.com/Hkayy47/YouSure) (bitcamp '24) · [wait-list-watcher-320](https://github.com/Hkayy47/wait-list-watcher-320) (needed a seat in a full course; wrote a bot; got the seat)
+Working on a bunch, can check them out here - [https://hkayy47.github.io/Hetansh-Kevadia-Portfolio/](https://hkayy47.github.io/Hetansh-Kevadia-Portfolio/normal.html)
+and my profile.
 
 ## `~/stack`
 
