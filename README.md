@@ -38,7 +38,7 @@ $ learning
 ## `~/projects`
 Working on a bunch, can check them out here - [https://hkayy47.github.io/Hetansh-Kevadia-Portfolio/](https://hkayy47.github.io/Hetansh-Kevadia-Portfolio/normal.html)
 and my profile.
-
+Reading a lot of papers as well, updating it here for now - https://app.notion.com/p/Hetansh-s-Research-papers-list-3a1754ec8fed8068bdbbd32a76a1c5a2?source=copy_link
 ## `~/stack`
 
 ```console
