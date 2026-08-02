@@ -28,8 +28,7 @@ $ ls -1 ~/work (old stuff lying around)
 
 $ learning
   Different ways of sequence modelling architecture with Structured state space memory (MamKO, MCPs) 
-  RL + CNNs + CV project (in the works)
-  Infra + db
+  Research on Physics Models
   CUDA and C++
 
 
