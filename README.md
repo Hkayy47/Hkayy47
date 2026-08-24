@@ -13,25 +13,13 @@
 ```console
 $ whoami
 
-hetansh — context windows, retrieval, and the infrastructure around them.
-          Deep interest in Model Architecture, how sequencial modelling works,
-          control models, applying them in real world states (world models).
-          what gets injected, what it actually costs, what it's worth,
-          and whether the stream survives a dropped connection.
-
-$ ls -1 ~/work (old stuff lying around)
-
-  shannonproxy/          what goes into the context
-  agent-memory-ledger/   what the context is worth
-  alembicio/             what happens when you change the embedding model
-  zephyr/                what happens when the connection dies
-
-$ learning
-  Different ways of sequence modelling architecture with Structured state space memory (MamKO, MCPs) 
-  Research on Physics Models
-  CUDA and C++
-
-
+hetansh — Mainly good at AI engineering and the infrastructure around them.
+          Learning about how we can improve github (it needs to evolve with
+          how many agents commit at scale now)
+          larping my way into quant soon.
+          Interest in Model Architecture depending on the data systems,
+          how sequencial modelling worked, and how physical AI will grow.
+          Control models, applying them in real world (world models).
 ```
 
 ## `~/projects`
