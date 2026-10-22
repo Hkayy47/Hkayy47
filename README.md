@@ -13,19 +13,12 @@
 ```console
 $ whoami
 
-hetansh — Mainly good at AI engineering and the infrastructure around them.
-          Learning about how we can improve github (it needs to evolve with
-          how many agents commit at scale now)
-          larping my way into quant soon.
-          Interest in Model Architecture depending on the data systems,
-          how sequencial modelling worked, and how physical AI will grow.
-          Control models, applying them in real world (world models).
+hetansh — Ml researcher/engineer. Applied AI builder, love meeting and talking to founders. Excited to see what's next.
 ```
 
 ## `~/projects`
-Working on a bunch, can check them out here - [https://hkayy47.github.io/Hetansh-Kevadia-Portfolio/](https://hkayy47.github.io/Hetansh-Kevadia-Portfolio/normal.html)
+Working on a bunch, can check them out here - [https://hkayy47.github.io/Hetansh-Kevadia-Portfolio/](https://hkayy47.github.io/Hetansh-Kevadia-Portfolio)
 and my profile.
-Reading a lot of papers as well, updating it here for now - https://app.notion.com/p/Hetansh-s-Research-papers-list-3a1754ec8fed8068bdbbd32a76a1c5a2?source=copy_link
 ## `~/stack`
 
 ```console
