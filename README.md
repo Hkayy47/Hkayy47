@@ -13,7 +13,7 @@
 ```console
 $ whoami
 
-hetansh — Ml researcher/engineer. Applied AI builder, love meeting and talking to founders. Excited to see what's next.
+hetansh — cs+math @umd, Ml researcher/engineer. Swe, love meeting and talking to founders. Excited to see what's next.
 ```
 
 ## `~/projects`
